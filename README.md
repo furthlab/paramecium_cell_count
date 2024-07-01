@@ -29,4 +29,10 @@ pip install csbdeep
 python count_cells.py ./images/blurry_output/
 ```
 
+Test the above and compare to:
+
+```sh
+python count_cells.py ./images/video_output/
+```
+
 
