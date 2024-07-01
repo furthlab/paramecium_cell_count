@@ -25,5 +25,8 @@ pip install csbdeep
 
 ## Usage
 
+```sh
+python count_cells.py ./images/blurry_output/
+```
 
 
